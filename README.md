@@ -10,5 +10,4 @@
 
 
 ### Thomas High School Performance after Alter scores removed
-#### After the altered 9th grader scores were removed, we saw a small, somewhat negligible change to the School's overall performance. 
-#### Overall Passing Percentage increased from 90.95% to 90.63%
+###### After the altered 9th grader scores were removed, we saw a small, somewhat negligible change to the School's overall performance. Overall Passing Percentage increased from 90.95% to 90.63%
