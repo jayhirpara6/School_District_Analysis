@@ -24,8 +24,10 @@
 ###### Given that removing Thomas High School's 9th grade test scores only impacts the total district and the specific schools test results, all scores by school spending, school size, and school type remain unchanged. (9th grader's test scores are ignored, but their enrollment at Thomas High School is not.)
 
 ### Before and After District results, indexed by Grade:
-##### Data by Grade (Before) ![](../main/Resources/results_by_grade_before.png)
-##### Data by Grade (After)  ![](../main/Resources/results_by_grade_after.png)
+##### Data by Grade (Before)
+![](../main/Resources/results_by_grade_before.png)
+##### Data by Grade (After)  
+![](../main/Resources/results_by_grade_after.png)
 
 
 
