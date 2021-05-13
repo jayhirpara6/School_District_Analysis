@@ -4,7 +4,7 @@
 
 ### Analysis of District Summary
 
-###### Overall Passing Percentage in the entire school district dropped from 65.2% to 64.9%
+###### Overall Passing Percentage in the entire school district dropped from 65.2% to 64.9%. The number of students in the district and the Total Budget for the district remain unchanged after removing Thomas High School's Ninth Grade Results. Passing Math and Reading Percentages decreased after. Average Math Scores decreased, while Average Reading Scores stayed the same. You can see the below screenshots as a comparison visual.
 
 ##### Before ![](../main/Resources/district_summary_before.png)
 ##### After ![](../main/Resources/district_summary_after.png)
