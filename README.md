@@ -24,3 +24,11 @@
 ###### Given that removing Thomas High School's 9th grade test scores only impacts the total district and the specific schools test results, all scores by school spending, school size, and school type remain unchanged. (9th grader's test scores are ignored, but their enrollment at Thomas High School is not.)
 
 ### Before and After District results, indexed by Grade:
+##### Data by Grade (Before) ![](../main/Resources/results_by_grade_before.png)
+##### Data by Grade (After)  ![](../main/Resources/results_by_grade_after.png)
+
+
+
+###### As you can see - Thomas High Schools Average Scores and Passing Rates changed after. Average Math decreased, while Average Reading increased. The passing rate for for math, reading and overall all decreased as well - thus highlighting that the 9th grades scored were bringing the averages up.
+##### Before Changes to Data ![](../main/Resources/Before_Results.png)
+##### After 9th Grade Results Removed: ![After 9th Grade Removed](../main/Resources/After_Results.png)
